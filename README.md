@@ -29,6 +29,10 @@ Evaluation metrics used:
 - Mean Squared Error (MSE)
 - R² Score
 
+## 📉 Visualization
+![Prediction Plot](image.png)
+
+
 ## 🚀 Future Improvements
 - Try Random Forest or Gradient Boosting
 - Feature scaling
